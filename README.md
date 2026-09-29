@@ -75,6 +75,13 @@ My goal is to be an engineer who can take an idea from raw data to a model to a 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MejriBecher&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MejriBecher/MejriBecher/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/MejriBecher/MejriBecher/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+  </picture>
+</p>
+
 ---
 
 <p align="center"><i>Open to internships, collaborations, and interesting data problems. Feel free to reach out at <a href="mailto:mejribecher@gmail.com">mejribecher@gmail.com</a>.</i></p>
