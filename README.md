@@ -1,8 +1,17 @@
-<h1 align="center">Hi, I'm Becher Mejri 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4068,100:7b2ff7&height=200&section=header&text=Becher%20Mejri&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Becher Mejri"/>
+</p>
 
 <p align="center">
-  <b>Data Science Engineering student (4th year)</b> · <b>Full-stack developer at Hortensia Agency</b><br/>
-  I build production web products and I'm moving toward the point where data, ML, and software engineering meet.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7B2FF7&center=true&vCenter=true&width=600&lines=Data+Science+Engineering+student+(4th+year);Full-stack+developer+%40+Hortensia+Agency;Next.js+%7C+Python+%7C+Machine+Learning;From+raw+data+to+deployed+products" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/becher-mejri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mejribecher@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MejriBecher&style=for-the-badge&color=7b2ff7&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -68,4 +77,8 @@ My goal is to be an engineer who can take an idea from raw data to a model to a 
 
 ---
 
-<p align="center"><i>Open to internships, collaborations, and interesting data problems. Feel free to reach out.</i></p>
+<p align="center"><i>Open to internships, collaborations, and interesting data problems. Feel free to reach out at <a href="mailto:mejribecher@gmail.com">mejribecher@gmail.com</a>.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:1f4068&height=120&section=footer&animation=twinkling" alt="footer"/>
+</p>
